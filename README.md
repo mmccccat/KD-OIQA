@@ -2,7 +2,7 @@
 
 # Description
 Pytorch implementation for the following paper:  
- [L. Liu, P. Ma, C. Wang and D. Xu, "Omnidirectional Image Quality Assessment with Knowledge Distillation," IEEE Signal Processing Letters, doi:10.1109/LSP.2023.3327908.](https://10.1109/LSP.2023.3327908)
+ [L. Liu, P. Ma, C. Wang and D. Xu, "Omnidirectional Image Quality Assessment with Knowledge Distillation," IEEE Signal Processing Letters, doi:10.1109/LSP.2023.3327908.](https://doi.org/10.1109/LSP.2023.3327908)
 
 # Requirements
 
