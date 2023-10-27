@@ -1,19 +1,20 @@
 **Omnidirectional Image Quality Assessment with Knowledge Distillation**
 
+[![license](https://img.shields.io/badge/-LICENSE-green)](https://github.com/mmccccat/KD-OIQA/main/LICENSE)
 # Description
 Pytorch implementation for the following paper:  
  [L. Liu, P. Ma, C. Wang and D. Xu, "Omnidirectional Image Quality Assessment with Knowledge Distillation," IEEE Signal Processing Letters, doi:10.1109/LSP.2023.3327908.](https://doi.org/10.1109/LSP.2023.3327908)
 
 # Requirements
 
-**Python 3.6**
-**torch 1.10.1**
-**torchvision 0.11.2**
-**numpy 1.19.5**
-**scipy 1.5.4**
-**pandas 1.1.5**
-**tensorborad 2.6.0**
-**tqdm 4.64.1**
+Python 3.6  
+torch 1.10.1  
+torchvision 0.11.2  
+numpy 1.19.5  
+scipy 1.5.4  
+pandas 1.1.5  
+tensorborad 2.6.0  
+tqdm 4.64.1  
 
 # Usages
 
@@ -47,5 +48,5 @@ python crossdb_train.py
 ```
 
 # Contact
-lxliu@bit.edu.cn
+lxliu@bit.edu.cn  
 pcma@bit.edu.cn
