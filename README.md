@@ -20,9 +20,9 @@ tqdm 4.64.1
 
 ## 1. Data
 We train and test KD-OIQA on three databases:  
-CVIQ: [W. Sun, X. Min, G. Zhai, K. Gu, H. Duan and S. Ma, “MC360IQA: A Multi-channel CNN for Blind 360-Degree Image Quality Assessment,” IEEE Journal of Selected Topics in Signal Processing, vol. 14, no. 1, pp. 64-77, Jan. 2020, doi: 10.1109/JSTSP.2019.2955024].(https://doi.org/10.1109/JSTSP.2019.2955024)  
-OIQA: [H. Duan, G. Zhai, X. Min, Y. Zhu, Y. Fang and X. Yang, “Perceptual Quality Assessment of Omnidirectional Images,” in 2018 IEEE International Symposium on Circuits and Systems (ISCAS), 2018, pp. 1-5, doi: 10.1109/ISCAS.2018.8351786.].(https://doi.org/10.1109/ISCAS.2018.8351786)  
-IQA-ODI: [L. Yang, M. Xu, X. Deng and B. Feng, “Spatial Attention-Based Non-Reference Perceptual Quality Prediction Network for Omnidirectional Images,” in 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: 10.1109/ICME51207.2021.9428390.].(https://doi.org/10.1109/ICME51207.2021.9428390)  
+CVIQ: [W. Sun, X. Min, G. Zhai, K. Gu, H. Duan and S. Ma, “MC360IQA: A Multi-channel CNN for Blind 360-Degree Image Quality Assessment,” IEEE Journal of Selected Topics in Signal Processing, vol. 14, no. 1, pp. 64-77, Jan. 2020, doi: 10.1109/JSTSP.2019.2955024](https://doi.org/10.1109/JSTSP.2019.2955024)  
+OIQA: [H. Duan, G. Zhai, X. Min, Y. Zhu, Y. Fang and X. Yang, “Perceptual Quality Assessment of Omnidirectional Images,” in 2018 IEEE International Symposium on Circuits and Systems (ISCAS), 2018, pp. 1-5, doi: 10.1109/ISCAS.2018.8351786.](https://doi.org/10.1109/ISCAS.2018.8351786)  
+IQA-ODI: [L. Yang, M. Xu, X. Deng and B. Feng, “Spatial Attention-Based Non-Reference Perceptual Quality Prediction Network for Omnidirectional Images,” in 2021 IEEE International Conference on Multimedia and Expo (ICME), 2021, pp. 1-6, doi: 10.1109/ICME51207.2021.9428390.](https://doi.org/10.1109/ICME51207.2021.9428390)  
 
 ## 2. Model Training and evaluation
 We have provided the features extracted with the pretrained teacher network, which can be seen under the "features" directory.
