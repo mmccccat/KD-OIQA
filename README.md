@@ -61,8 +61,10 @@ You can evaluate the cross-database performance of KD-OIQA with following steps:
 # note to modify the root path of the database to your own path
 # train the teacher network
 python teacher_crossdb_train.py --database_train=CVIQ --database_test=OIQA
+
 # extract the features with the trained teacher network
 python crossdb_feat.py --database_train=CVIQ --database_test=OIQA
+
 # train the student network with mask distillation
 # if you train on other database, note to modify the feat path in dataset_cross.py Line:42
 python crossdb_train.py --database_train=CVIQ --database_test=OIQA
