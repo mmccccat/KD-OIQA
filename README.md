@@ -41,8 +41,7 @@ cd viewport
 OIQA2viewport.m
 ```
 
-In order to make the training process faster, we recommand save the resized viewport images (?→256×256) and ERP images (?→1024×512) in advance.  
-We have provided a demo python script "img_resize.py" for resizing images.
+In order to make the training process faster, we recommand save the resized viewport images (?→256×256) and ERP images (?→1024×512) in advance. We have provided a demo python script "img_resize.py" for resizing images.
 
 Then you can train the teacher network with following command:  
 ```
